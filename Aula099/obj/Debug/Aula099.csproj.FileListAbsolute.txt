@@ -1,0 +1,6 @@
+E:\Udemy\Cursos\C# Completo\Aula099\Aula099\bin\Debug\Aula099.exe.config
+E:\Udemy\Cursos\C# Completo\Aula099\Aula099\bin\Debug\Aula099.exe
+E:\Udemy\Cursos\C# Completo\Aula099\Aula099\bin\Debug\Aula099.pdb
+E:\Udemy\Cursos\C# Completo\Aula099\Aula099\obj\Debug\Aula099.csprojAssemblyReference.cache
+E:\Udemy\Cursos\C# Completo\Aula099\Aula099\obj\Debug\Aula099.exe
+E:\Udemy\Cursos\C# Completo\Aula099\Aula099\obj\Debug\Aula099.pdb
